@@ -100,8 +100,8 @@ main {
 
 .box {
   position: absolute;
-  top: 311px;
-  left: 154px;
+  top: 321px;
+  left: 164px;
   overflow: visible;
   z-index: 2;
 }
